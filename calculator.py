@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
-def divide(a, b):
+def divide_prepre(a, b):
     return a/b
 
 def divide_pre(a, b):
