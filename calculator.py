@@ -11,5 +11,3 @@ def divide_free(a, b):
 def divide_pre(a, b):
     return a/b
 
-def say_hello():
-  print("hello")
